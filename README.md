@@ -1,2 +1,2 @@
 # IVAS-IntelligentVirtualAssistantSimple
- IVAS  is a voice Virtual Assistant simple, using python in yout structure.
+ IVAS  is a voice Virtual Assistant simple, using python in your structure.
